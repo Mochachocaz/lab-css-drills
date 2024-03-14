@@ -14,3 +14,23 @@ a {
     font-weight: bold;
     color: red;
 }
+.box1, .box2, .box3, .box4 {
+    margin: 2em;
+    padding: 2em;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 30em;
+}
+.box1 {
+    background-color: dimgray;
+}
+.box2 {
+    background-color: slategray;
+}
+.box3 {
+    background-color: royalblue;
+}
+.box4 {
+    background-color: darkslateblue;
+}
