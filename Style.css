@@ -35,3 +35,12 @@ a {
 .box4 {
     background-color: darkslateblue;
 }
+.header-image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: lightcoral;
+    position: relative;
+    top: 4em;
+    left: 5em;
+}
