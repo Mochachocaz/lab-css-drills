@@ -1,3 +1,16 @@
 body {
     font-family: Poppins;
+    background-color: lightgray;
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: purple;
+}
+.readme-wrapper :hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: red;
 }
