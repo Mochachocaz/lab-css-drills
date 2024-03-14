@@ -21,12 +21,16 @@ a {
     border-color: black;
     border-radius: 10px;
     width: 30em;
+    display: block;
 }
 .box1 {
     background-color: dimgray;
 }
 .box2 {
     background-color: slategray;
+    position: absolute;
+    bottom: 25em;
+    left: 40em;
 }
 .box3 {
     background-color: royalblue;
