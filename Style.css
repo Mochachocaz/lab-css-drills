@@ -65,3 +65,17 @@ a {
 #Five {
     color: deeppink;
 }
+ul {
+    color: crimson;
+}
+.star {
+    color: rgb(20, 255, 216);
+}
+#wars {
+    color: lime;
+}
+.lists {
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
